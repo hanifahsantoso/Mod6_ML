@@ -3,7 +3,7 @@
 Project ini menggunakan EfficientNetB3 sebagai model pretrain yang diambil menggunakan pustaka tensorflow.
 
 ## Instalasi python version >= 3.10 
-[![Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)](https://github.com/hanifahsantoso/Mod6_ML/issues/2#issue-2042129722)
+[![Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)]([https://github.com/hanifahsantoso/Mod6_ML/issues/2#issue-2042129722)
 
 ## Environment
 1. Path : 3.10
