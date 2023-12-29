@@ -15,3 +15,5 @@ Load image menggunakan image_dataset_from_directory dari pustaka tensorflow deng
 Dataset menggunakan label categorical sehingga label dalam bentuk one hot encoding.
 
 ## Interface Web
+
+![Alt text](image link)
