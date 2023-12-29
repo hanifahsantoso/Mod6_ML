@@ -16,4 +16,4 @@ Dataset menggunakan label categorical sehingga label dalam bentuk one hot encodi
 
 ## Interface Web
 
-![Alt text](image link)
+![image](https://github.com/hanifahsantoso/Mod6_ML/issues/3#issue-2059102897).
