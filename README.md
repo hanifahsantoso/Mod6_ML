@@ -1,7 +1,7 @@
 # Mod6_MachineLearning
 
 Project ini menggunakan EfficientNetB3 sebagai model pretrain yang diambil menggunakan pustaka tensorflow.
-Instalasi python version >= 3.10
+Instalasi python version 3.10
 
 ## Environment
 1. Path : 3.10
@@ -16,4 +16,5 @@ Dataset menggunakan label categorical sehingga label dalam bentuk one hot encodi
 
 ## Interface Web
 
-![image](https://github.com/hanifahsantoso/Mod6_ML/issues/3#issue-2059102897).
+![Screenshot (152)](https://github.com/hanifahsantoso/Mod6_ML/assets/80865973/ed11dc13-fd67-4820-9a5a-a3abc6fbe27b)
+![Screenshot (151)](https://github.com/hanifahsantoso/Mod6_ML/assets/80865973/dab4938b-f68b-4a31-bb3a-84b71382724e)
