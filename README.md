@@ -5,7 +5,14 @@ Instalasi python version 3.10
 
 ## Environment
 1. Path : 3.10
-2. Vscode 
+2. Vscode
+
+## Program
+### Dataset
+![Screenshot (153)](https://github.com/hanifahsantoso/Mod6_ML/assets/80865973/c489ead0-2fcf-4d1e-94ba-edfe5c37dec8)
+
+### Grafik Training & Validasi Acc
+![Screenshot (154)](https://github.com/hanifahsantoso/Mod6_ML/assets/80865973/894abb2b-869b-4c5d-b0d4-56a08365b985)
 
 ### Web yang diakses
 [Klik disini!](http://127.0.0.1:2000)
