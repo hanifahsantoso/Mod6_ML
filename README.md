@@ -20,6 +20,8 @@ Instalasi python version 3.10
 Dataset Project ini menggunakan dataset rock paper scissor dengan jumlah data sebanyak 2520 file. 
 Load image menggunakan image_dataset_from_directory dari pustaka tensorflow dengan pembagian train validation 80% dan test validation 20% dengan seed 123. 
 Dataset menggunakan label categorical sehingga label dalam bentuk one hot encoding.
+## Hypertuning
+![hypertuning](https://github.com/hanifahsantoso/Mod6_ML/assets/80865973/1f9ba153-3946-4151-a2db-b068b8364f7a)
 
 ## Interface Web
 
